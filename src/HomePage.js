@@ -8,7 +8,7 @@ const HomePage = () => {
                 <h1>CozyTime</h1>
             </header>
             <div style={styles.content}>
-                <p>Fall asleep with your own stories, crafted by AI but controlled by you.</p>
+                <p>Introducing CozyTime AI - Your Personal Sleep Storyteller!</p>
                 <img 
                     src="cozytime.png" 
                     alt="Mobile App Screenshot" 
