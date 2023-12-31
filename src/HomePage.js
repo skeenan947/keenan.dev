@@ -8,9 +8,19 @@ const HomePage = () => {
                 <h1>CozyTime</h1>
             </header>
             <div style={styles.content}>
-                <p>Fall asleep with AI.</p>
+                <p>Fall asleep with your own stories, crafted by AI but controlled by you.</p>
                 <img 
                     src="cozytime.png" 
+                    alt="Mobile App Screenshot" 
+                    style={styles.image} 
+                /> 
+                <img 
+                    src="cozytime2.png" 
+                    alt="Mobile App Screenshot" 
+                    style={styles.image} 
+                /> 
+                <img 
+                    src="cozytime3.png" 
                     alt="Mobile App Screenshot" 
                     style={styles.image} 
                 /><br></br>

@@ -5,16 +5,16 @@ const FeaturesPage = () => {
         <div style={styles.container}>
             <h2 style={styles.header}>App Features</h2>
             <div style={styles.feature}>
-                <h3>Feature One</h3>
-                <p>Describe the first key feature of your app here.</p>
+                <h3>AI Story Creation</h3>
+                <p>You describe the story, in as few or as many words as you want, and our AI will craft a story for you.</p>
             </div>
             <div style={styles.feature}>
-                <h3>Feature Two</h3>
-                <p>Describe the second key feature of your app here.</p>
+                <h3>Story Reading</h3>
+                <p>Stories will be read aloud to you by one of our custom voices.</p>
             </div>
             <div style={styles.feature}>
-                <h3>Feature Three</h3>
-                <p>Describe the third key feature of your app here.</p>
+                <h3>Image Creation</h3>
+                <p>An image will be created to go along with your story.</p>
             </div>
         </div>
     );
