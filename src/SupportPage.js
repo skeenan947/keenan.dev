@@ -1,7 +1,7 @@
 import React from 'react';
 
 const SupportPage = () => {
-    const emailAddress = "support@skeenan.net"; // Replace with your email address
+    const emailAddress = "support@keenan.dev"; // Replace with your email address
 
     return (
         <div style={styles.container}>
@@ -22,7 +22,7 @@ const SupportPage = () => {
             </div>
             <div>
             <h2>Feedback</h2>
-                <p>We value your feedback. If you have any suggestions or feedback on how we can improve CozyTime, please feel free to share it with us at <a href="mailto:feedback@skeenan.net">feedback@skeenan.net</a>.</p>
+                <p>We value your feedback. If you have any suggestions or feedback on how we can improve CozyTime, please feel free to share it with us at <a href="mailto:feedback@keenan.dev">feedback@keenan.dev</a>.</p>
             </div>
             <div>
             <h2>Privacy Policy</h2>
