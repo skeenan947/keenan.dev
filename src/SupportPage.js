@@ -1,7 +1,7 @@
 import React from 'react';
 
 const SupportPage = () => {
-    const emailAddress = "skeenan+cozytime@gmail.com"; // Replace with your email address
+    const emailAddress = "support@skeenan.net"; // Replace with your email address
 
     return (
         <div style={styles.container}>
@@ -18,9 +18,22 @@ const SupportPage = () => {
             <div style={styles.contactSection}>
                 <h3>Contact Us</h3>
                 <p>If you have any questions or need further assistance, please don't hesitate to contact us.</p>
-                <a href={`mailto:${emailAddress}`} style={styles.emailLink}>Send an Email</a>
+                <a href={`mailto:${emailAddress}`} style={styles.emailLink}>Send an Email to {`${emailAddress}`}</a>
+            </div>
+            <div>
+            <h2>Feedback</h2>
+                <p>We value your feedback. If you have any suggestions or feedback on how we can improve CozyTime, please feel free to share it with us at <a href="mailto:feedback@skeenan.net">feedback@skeenan.net</a>.</p>
+            </div>
+            <div>
+            <h2>Privacy Policy</h2>
+                <p>For information on how we handle your data, please review our <a href="#privacy-policy">privacy policy</a> <a href="#privacy-policy">here</a>.</p>
+            </div>
+            <div>
+            <h2>Terms of Service</h2>
+                <p>To understand the terms and conditions of using our app, please read our <a href="#terms-of-service">terms of service</a> <a href="#terms-of-service">here</a>.</p>
             </div>
         </div>
+
     );
 };
 
