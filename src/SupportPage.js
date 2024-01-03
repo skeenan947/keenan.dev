@@ -26,12 +26,9 @@ const SupportPage = () => {
             </div>
             <div>
             <h2>Privacy Policy</h2>
-                <p>For information on how we handle your data, please review our <a href="#privacy-policy">privacy policy</a> <a href="#privacy-policy">here</a>.</p>
+                <p>For information on how we handle your data, please review our <a href="/privacy-policy">privacy policy</a>.</p>
             </div>
             <div>
-            <h2>Terms of Service</h2>
-                <p>To understand the terms and conditions of using our app, please read our <a href="#terms-of-service">terms of service</a> <a href="#terms-of-service">here</a>.</p>
-            </div>
         </div>
 
     );
