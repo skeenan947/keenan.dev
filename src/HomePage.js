@@ -1,7 +1,11 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 
 const HomePage = () => {
+    useEffect(() => {
+        document.title = "CozyTime AI - Home"
+    }, []);
+
     return (
         <div style={styles.container}>
             <header style={styles.header}>

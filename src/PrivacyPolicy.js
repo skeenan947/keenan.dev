@@ -1,6 +1,10 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 const PrivacyPolicy = () => {
+    useEffect(() => {
+        document.title = "CozyTime AI - Privacy Policy"
+    }, []);
+
     return (
         <div style={styles.container}>
             <h2 style={styles.header}>CozyTime AI - Privacy Policy</h2>

@@ -1,6 +1,10 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 const SupportPage = () => {
+    useEffect(() => {
+        document.title = "CozyTime AI - Support"
+    }, []);
+
     const emailAddress = "support@keenan.dev"; // Replace with your email address
 
     return (

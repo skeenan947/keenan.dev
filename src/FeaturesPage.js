@@ -1,6 +1,10 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 const FeaturesPage = () => {
+    useEffect(() => {
+        document.title = "CozyTime AI - Features"
+    }, []);
+
     return (
         <div style={styles.container}>
             <h2 style={styles.header}>App Features</h2>
