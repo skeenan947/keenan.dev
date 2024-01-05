@@ -28,9 +28,7 @@ const SupportPage = () => {
             <h2>Privacy Policy</h2>
                 <p>For information on how we handle your data, please review our <a href="/privacy-policy">privacy policy</a>.</p>
             </div>
-            <div>
         </div>
-
     );
 };
 
