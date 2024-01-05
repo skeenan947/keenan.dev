@@ -40,7 +40,7 @@ const FeaturesPage = () => {
 
             <p>CozyTime AI is here to transform your bedtime routine into a magical, relaxing, and unforgettable experience. Say hello to peaceful nights and dreamy sleep with CozyTime AI.</p>
             <p>Download the app today and let the power of AI create your perfect sleep story. Sweet dreams are just a tap away!</p>
-            <p><strong>Get CozyTime AI now<p><a href="https://apps.apple.com/us/app/cozytime-ai/id6473547179"><img src="/download-on-the-app-store.svg"></img></a></p></strong></p>
+            <p><strong>Get CozyTime AI now<p><a href="https://apps.apple.com/us/app/cozytime-ai/id6473547179"><img src="/download-on-the-app-store.svg" alt="Download on the App Store"></img></a></p></strong></p>
 
         </div>
     );
