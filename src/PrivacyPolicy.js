@@ -34,7 +34,7 @@ const PrivacyPolicy = () => {
                 <li>To provide and improve our services, including the "CozyTime AI" app.</li>
                 <li>To personalize user experiences and content.</li>
                 <li>To respond to user inquiries and provide support.</li>
-                <li>To process payments and fulfill purchases (if applicable).</li>
+                <li>To process payments and fulfill purchases.</li>
                 <li>To monitor and analyze app usage for optimization and security purposes.</li>
                 <li>To comply with legal obligations.</li>
             </ul>
@@ -42,7 +42,7 @@ const PrivacyPolicy = () => {
             <h3>3. Data Sharing</h3>
             <p>We may share your data with the following third parties:</p>
             <ul>
-                <li>Payment processors (for processing payments, if applicable).</li>
+                <li>Payment processors.</li>
                 <li>Analytics partners to improve our services and offer relevant content.</li>
                 <li>Law enforcement, government authorities, or legal parties as required by law or to protect our rights and interests.</li>
             </ul>
