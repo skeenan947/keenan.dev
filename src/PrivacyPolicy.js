@@ -51,7 +51,7 @@ const PrivacyPolicy = () => {
             <p>We implement appropriate security measures to protect your data from unauthorized access, disclosure, alteration, or destruction. However, no data transmission or storage method is entirely secure, and we cannot guarantee absolute security.</p>
 
             <h3>5. Data Retention</h3>
-            <p>We retain your data for as long as necessary to fulfill the purposes outlined in this policy or as required by applicable laws and regulations. You may request the deletion of your data by contacting us at [contact@yourapp.com].</p>
+            <p>We retain your data for as long as necessary to fulfill the purposes outlined in this policy or as required by applicable laws and regulations. You may request the deletion of your data by contacting us at <a href="mailto:support@keenan.dev">support@keenan.dev</a>.</p>
 
             <h3>6. Your Choices</h3>
             <p>You have the following rights regarding your data:</p>
