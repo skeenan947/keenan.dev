@@ -3,7 +3,7 @@ import React from 'react';
 const PrivacyPolicy = () => {
     return (
         <div style={styles.container}>
-            <h2 style={styles.header}>Privacy Policy</h2>
+            <h2 style={styles.header}>CozyTime AI - Privacy Policy</h2>
 
             <p>Last Updated: 1/5/2024</p>
 
