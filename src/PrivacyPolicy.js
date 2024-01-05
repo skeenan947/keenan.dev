@@ -71,7 +71,6 @@ const PrivacyPolicy = () => {
 
             <h3>8. Changes to This Privacy Policy</h3>
             <p>We may update this privacy policy from time to time to reflect changes in our data handling practices. We will notify you of any significant changes by posting the updated policy on our website or within the app.</p>
-            <p>This privacy policy was last updated on [Date].</p>
         </div>
     );
 };
