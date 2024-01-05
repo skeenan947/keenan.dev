@@ -7,6 +7,7 @@ const NavBar = () => {
             <Link to="/" style={styles.navItem}>Home</Link>
             <Link to="/features" style={styles.navItem}>Features</Link>
             <Link to="/support" style={styles.navItem}>Support</Link>
+            <Link to="/privacy-policy" style={styles.navItem}>Privacy</Link>
         </nav>
     );
 };
