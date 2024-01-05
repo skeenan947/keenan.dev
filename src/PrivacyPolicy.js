@@ -65,7 +65,6 @@ const PrivacyPolicy = () => {
             <h3>7. Contact Us</h3>
             <p>If you have any questions, concerns, or inquiries regarding this privacy policy or our data practices, please contact us at:</p>
             <ul>
-                <li>Shaun Keenan</li>
                 <li>Email: <a href="mailto:privacy@keenan.dev">privacy@keenan.dev</a></li>
             </ul>
 
